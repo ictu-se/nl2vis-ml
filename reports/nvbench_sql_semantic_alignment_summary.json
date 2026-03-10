@@ -1,0 +1,9 @@
+{
+  "target_samples": 145,
+  "already_match": 39,
+  "aligned_changed": 106,
+  "runtime_failures_before_align": 0,
+  "still_mismatch_after_align": 0,
+  "dry_run": false,
+  "report_csv": "ncnet-legacy\\reports\\nvbench_sql_semantic_alignment.csv"
+}

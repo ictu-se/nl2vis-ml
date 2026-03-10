@@ -1,0 +1,10 @@
+fix_strategy,count,percent,error_categories,risk_level_majority,all_fixed_count
+flatten_nested_aggregate,69,47.59,ambiguous_column_reference;invalid_nested_aggregate,high,69
+qualify_ambiguous_column,32,22.07,ambiguous_column_reference,low,32
+repair_invalid_column_reference,10,6.90,invalid_column_reference,medium,10
+rewrite_union_projection_arity,9,6.21,union_column_mismatch,high,9
+replace_groupby_aggregate_expr,7,4.83,aggregate_in_group_by,medium,7
+rewrite_except_projection_arity,6,4.14,invalid_column_reference,high,6
+add_groupby_for_orderby_count,5,3.45,invalid_nested_aggregate,high,5
+repair_sql_syntax,5,3.45,malformed_sql_syntax,medium,5
+remove_dangling_token,2,1.38,malformed_sql_syntax,low,2

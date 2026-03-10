@@ -1,0 +1,6 @@
+{
+  "total_entries": 7247,
+  "fixed_count": 145,
+  "final_error_count": 0,
+  "notes": "fixed_count is total logged fixes with original and revised SQL in nvbench_sql_fixes.csv/jsonl"
+}

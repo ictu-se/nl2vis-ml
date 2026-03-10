@@ -1,0 +1,66 @@
+{
+  "source_nvbench": "D:\\nl2vis\\nvBench-curate\\source\\nvBench.json",
+  "output_dir": "D:\\nl2vis\\nvBench-curate\\dataset\\nvbench_seq2seq",
+  "ratios_from_base_split_ids": {
+    "train": 3165,
+    "dev": 186,
+    "test": 626
+  },
+  "splits": {
+    "train": {
+      "rows": 20648,
+      "chart_dist": {
+        "Bar": 15490,
+        "Pie": 1381,
+        "Scatter": 857,
+        "Stacked Bar": 939,
+        "Grouping Scatter": 468,
+        "Line": 1290,
+        "Grouping Line": 223
+      },
+      "hardness_dist": {
+        "Easy": 4835,
+        "Medium": 8211,
+        "Hard": 5144,
+        "Extra Hard": 2458
+      }
+    },
+    "dev": {
+      "rows": 1145,
+      "chart_dist": {
+        "Bar": 884,
+        "Scatter": 61,
+        "Stacked Bar": 25,
+        "Pie": 101,
+        "Line": 41,
+        "Grouping Scatter": 23,
+        "Grouping Line": 10
+      },
+      "hardness_dist": {
+        "Hard": 282,
+        "Easy": 288,
+        "Extra Hard": 139,
+        "Medium": 436
+      }
+    },
+    "test": {
+      "rows": 3969,
+      "chart_dist": {
+        "Bar": 3037,
+        "Pie": 273,
+        "Stacked Bar": 208,
+        "Scatter": 121,
+        "Grouping Scatter": 60,
+        "Line": 232,
+        "Grouping Line": 38
+      },
+      "hardness_dist": {
+        "Medium": 1532,
+        "Easy": 871,
+        "Extra Hard": 470,
+        "Hard": 1096
+      }
+    }
+  },
+  "total_rows": 25762
+}

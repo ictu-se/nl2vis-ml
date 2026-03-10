@@ -1,0 +1,122 @@
+[
+  {
+    "epoch": 1,
+    "train_loss": 1.9300343532680357,
+    "dev_loss": 1.4753174268537097,
+    "dev_slot_f1": 0.531528384279476,
+    "epoch_sec": 10.337559100000362,
+    "improved": true
+  },
+  {
+    "epoch": 2,
+    "train_loss": 0.8848600961475549,
+    "dev_loss": 1.1806843529144924,
+    "dev_slot_f1": 0.5963318777292577,
+    "epoch_sec": 10.42903220000153,
+    "improved": true
+  },
+  {
+    "epoch": 3,
+    "train_loss": 0.5960370498729564,
+    "dev_loss": 1.0195386343532138,
+    "dev_slot_f1": 0.6178165938864629,
+    "epoch_sec": 10.54670079999778,
+    "improved": true
+  },
+  {
+    "epoch": 4,
+    "train_loss": 0.4129864839208384,
+    "dev_loss": 0.8735546660092142,
+    "dev_slot_f1": 0.682882096069869,
+    "epoch_sec": 10.377529999997932,
+    "improved": true
+  },
+  {
+    "epoch": 5,
+    "train_loss": 0.2904918370508926,
+    "dev_loss": 0.7749122737182511,
+    "dev_slot_f1": 0.7232314410480349,
+    "epoch_sec": 10.4450474999976,
+    "improved": true
+  },
+  {
+    "epoch": 6,
+    "train_loss": 0.21489127137159048,
+    "dev_loss": 0.7276131895681223,
+    "dev_slot_f1": 0.7485589519650655,
+    "epoch_sec": 10.186729200002446,
+    "improved": true
+  },
+  {
+    "epoch": 7,
+    "train_loss": 0.17699432349980063,
+    "dev_loss": 0.7077445044285722,
+    "dev_slot_f1": 0.7595633187772926,
+    "epoch_sec": 10.379113199996937,
+    "improved": true
+  },
+  {
+    "epoch": 8,
+    "train_loss": 0.15284724960293933,
+    "dev_loss": 0.6866068339182271,
+    "dev_slot_f1": 0.7620004367765887,
+    "epoch_sec": 10.28109140000015,
+    "improved": true
+  },
+  {
+    "epoch": 9,
+    "train_loss": 0.1358598115458946,
+    "dev_loss": 0.7032858166429732,
+    "dev_slot_f1": 0.772308364271675,
+    "epoch_sec": 10.469977699998708,
+    "improved": true
+  },
+  {
+    "epoch": 10,
+    "train_loss": 0.12356268785224979,
+    "dev_loss": 0.6885017160740163,
+    "dev_slot_f1": 0.7878602620087336,
+    "epoch_sec": 10.609452800003055,
+    "improved": true
+  },
+  {
+    "epoch": 11,
+    "train_loss": 0.11484586131462003,
+    "dev_loss": 0.7013737397889296,
+    "dev_slot_f1": 0.7823542258134965,
+    "epoch_sec": 10.838087999996787,
+    "improved": false
+  },
+  {
+    "epoch": 12,
+    "train_loss": 0.10877985108193967,
+    "dev_loss": 0.6944196037948132,
+    "dev_slot_f1": 0.7872489082969434,
+    "epoch_sec": 10.358827199997904,
+    "improved": false
+  },
+  {
+    "epoch": 13,
+    "train_loss": 0.10245974304229483,
+    "dev_loss": 0.6896459845205148,
+    "dev_slot_f1": 0.797117903930131,
+    "epoch_sec": 10.461092500001541,
+    "improved": true
+  },
+  {
+    "epoch": 14,
+    "train_loss": 0.09317580428285864,
+    "dev_loss": 0.6920863054692745,
+    "dev_slot_f1": 0.8037554585152838,
+    "epoch_sec": 10.427151200005028,
+    "improved": true
+  },
+  {
+    "epoch": 15,
+    "train_loss": 0.08912796211131956,
+    "dev_loss": 0.6938556861132383,
+    "dev_slot_f1": 0.8085589519650656,
+    "epoch_sec": 10.388008299996727,
+    "improved": true
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "epoch": 1,
+    "train_loss": 1.8310095212038826,
+    "dev_loss": 1.5473568969302707,
+    "dev_slot_f1": 0.5248034934497816,
+    "epoch_sec": 11.95678449999832,
+    "improved": true
+  },
+  {
+    "epoch": 2,
+    "train_loss": 1.0535685488314082,
+    "dev_loss": 1.3687180744277105,
+    "dev_slot_f1": 0.503231441048035,
+    "epoch_sec": 11.437643200006278,
+    "improved": false
+  },
+  {
+    "epoch": 3,
+    "train_loss": 0.8576289053671869,
+    "dev_loss": 1.2619110991557438,
+    "dev_slot_f1": 0.5256768558951965,
+    "epoch_sec": 11.921560199996748,
+    "improved": true
+  },
+  {
+    "epoch": 4,
+    "train_loss": 0.7653115692522504,
+    "dev_loss": 1.237101337975926,
+    "dev_slot_f1": 0.48550218340611356,
+    "epoch_sec": 11.651172000005317,
+    "improved": false
+  },
+  {
+    "epoch": 5,
+    "train_loss": 0.724895323946749,
+    "dev_loss": 1.2653319107161627,
+    "dev_slot_f1": 0.4411353711790393,
+    "epoch_sec": 11.601885099997162,
+    "improved": false
+  },
+  {
+    "epoch": 6,
+    "train_loss": 0.6993166916879707,
+    "dev_loss": 1.2306037263737784,
+    "dev_slot_f1": 0.525589519650655,
+    "epoch_sec": 11.459126599998854,
+    "improved": false
+  },
+  {
+    "epoch": 7,
+    "train_loss": 0.6908089946667108,
+    "dev_loss": 1.243065716491805,
+    "dev_slot_f1": 0.5056768558951965,
+    "epoch_sec": 11.268652999999176,
+    "improved": false
+  }
+]
